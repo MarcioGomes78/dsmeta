@@ -10,7 +10,7 @@ O projeto dsmeta é eum projeto full stack web e mobile desenvolvido durante a "
 A aplicação consiste em uma pesquisa de vendas e ao pesquisar ela manda uma notificação para o celular, informando qual venda foi acessada.
 
 ## Layout Web
-![web]https://user-images.githubusercontent.com/107900395/180667212-0d199388-345a-4df5-823a-a6c9e05e8334.png
+![web img]https://user-images.githubusercontent.com/107900395/180667212-0d199388-345a-4df5-823a-a6c9e05e8334.png
 
 ![web02](https://user-images.githubusercontent.com/107900395/180667377-446bd319-c683-4124-aeef-635898f62758.png)
 
