@@ -1,6 +1,6 @@
 # dsmeta-marcio-vendas
 
-
+[![NPM](https://img.shields.ionpm/1/react)](https://github.com/MarcioGomes78/dsmeta/blob/main/LICENCE)
 
 ## Sobre o projeto
 https://dsmeta-marcio-vendas.netlify.app/
