@@ -66,10 +66,9 @@ yarn install
 
 #executar o projeto 
 yarn dev
-
+```
 # Autor 
 
 Marcio José Cordovil Gomes
 
 https://www.linkedin.com/in/marcio-gomes-b70644245/
-```
